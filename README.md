@@ -21,10 +21,10 @@ This project focuses on analyzing forest fire data from Brazil. Through data exp
 
 ## 🧩 Libraries Used
 
--pandas
--numpy
--matplotlib
--seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 ---
 
