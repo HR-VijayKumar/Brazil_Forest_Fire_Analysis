@@ -7,7 +7,7 @@ This project focuses on analyzing forest fire data from Brazil. Through data exp
 ## 📂 Dataset
 - The dataset contains monthly records of forest fires in different states of Brazil.
 - Key columns include: `month`, `year`, `state`, `number of fires`, etc.
-- (Optional: Dataset Source: [Insert dataset source link here])
+- Dataset Source: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
 
 ---
 
@@ -16,6 +16,15 @@ This project focuses on analyzing forest fire data from Brazil. Through data exp
 - Identify which Brazilian states are most affected by forest fires.
 - Visualize seasonal patterns and monthly trends.
 - Derive useful insights through graphs and charts.
+
+---
+
+## 🧩 Libraries Used
+
+-pandas
+-numpy
+-matplotlib
+-seaborn
 
 ---
 
