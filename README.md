@@ -23,5 +23,5 @@ This project focuses on analyzing forest fire data from Brazil. Through data exp
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Brazil_Forest_Fire_Analysis.git
+   git clone https://github.com/HR-VijayKumar/Brazil_Forest_Fire_Analysis.git
    cd Brazil_Forest_Fire_Analysis
